@@ -21,8 +21,16 @@ birds_DB_2:
 -- AFRICAN OYSTER CATCHER
 ```
 
-
 ## Referências
 
  - O código base utilizado foi o tutorial [Transfer learning / fine-tuning](https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb).
  - O subconjunto de imagens utilizado foi retirado da base de dados [Birds 525 Species - Image Classification](https://www.kaggle.com/datasets/gpiosenka/100-bird-species).
+
+## Ferramentas e Tecnologias
+
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/></a>
+</a>   
+</div> 
+
